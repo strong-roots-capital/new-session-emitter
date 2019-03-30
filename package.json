@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/new-session-emitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emit a signal at end of desired session (UTC)",
   "main": "dist/new-session-emitter.js",
   "types": "dist/new-session-emitter.d.ts",
